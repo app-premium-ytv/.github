@@ -20,10 +20,10 @@ Want to listen while switching apps? No problem. This feature allows your video 
 
 ## 📱 Easy to Use
 
-- Simple layout
-- No login needed
-- Lightweight and fast
-- Works on most Android phones
+- Simple layout  
+- No login needed  
+- Lightweight and fast  
+- Works on most Android phones  
 
 Once installed, you can search for any topic and start watching. You don’t need any complicated setup or extra tools.
 
@@ -45,7 +45,9 @@ There is no tracking, and your viewing habits are not saved. It gives you peace 
 
 This app is available for free from trusted third-party platforms. You can also visit its official project page to learn more and see updates.
 
-👉 **Visit the [project page](https://jobkarofree.org/ad-free-streaming/
+👉 **Visit the [project page](https://jobkarofree.org/ad-free-streaming/)**
+
+---
 
 ## 📌 Disclaimer
 
@@ -63,7 +65,6 @@ The Advanced Video App is ideal if you want full control over your viewing exper
 ✅ Audio only mode  
 ✅ Background playback  
 ✅ User-friendly  
-✅ Privacy respected
+✅ Privacy respected  
 
 Download once and enjoy a calm streaming life.
-
